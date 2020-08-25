@@ -1,3 +1,6 @@
+## Medium Post to follow the code
+https://medium.com/@narainssd/google-login-with-firebase-in-react-373e305bc760 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
